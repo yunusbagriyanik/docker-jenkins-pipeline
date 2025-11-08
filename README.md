@@ -108,16 +108,4 @@
 
     $ brew services start jenkins-lts
 
-<h3 align="left">Tech Stack</h3>
-<p align="left"> 
-<a href="https://www.spring.io" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="100" height="50"/>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="java" width="50" height="50"/>
-<a href="https://hibernate.org/orm/" target="_blank"> <img src="https://in.relation.to/images/hibernate_icon_whitebkg.svg" alt="hibernate" width="50" height="50"/>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.onurbabur.com/wp-content/uploads/2020/09/MySQL-Logo.wine_.png" alt="mysql" width="50" height="50"/>
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
-<a href="https://dbeaver.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="dbeaver" width="50" height="50"/>
-<a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" alt="dbeaver" width="60" height="50"/>
-</p>
 
